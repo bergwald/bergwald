@@ -1,9 +1,7 @@
-(url)![Untitled Diagram](https://user-images.githubusercontent.com/58369595/117017692-176dc680-acf4-11eb-8daa-e446a150cb14.png)
-
-
-### Hi there 👋
+![Bergwald ASCII Art](https://user-images.githubusercontent.com/58369595/117017692-176dc680-acf4-11eb-8daa-e446a150cb14.png)
 
 <!--
+### Hi there 👋
 **bergwald/bergwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
